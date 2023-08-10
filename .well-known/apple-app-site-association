@@ -1,7 +1,7 @@
 {
   "applinks": {
       "apps": [],
-      "details": [
+      "test": [
       {
         "appID": "J39VUQLQXX.com.example.sendbirdPoc",
         "paths": ["*"]
